@@ -1,3 +1,5 @@
+## This Repo has moved to: [New Contracts](https://github.com/ArturVargas/papantla-polka-evm)
+
 # Sample Polkadot Hardhat Project
 
 This project demonstrates how to use Hardhat with Polkadot. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
